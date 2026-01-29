@@ -1,4 +1,4 @@
-﻿# EEG Parkinson’s Disease Classification and Visualization
+﻿﻿# EEG Parkinson’s Disease Classification and Visualization
 
 This repository provides a fully reproducible pipeline for training, evaluating, and visualizing EEG-based Parkinson’s disease classifiers using **signed Grad‑CAMs**. The workflow is designed to maximize *good‑channel accuracy*, select the best-performing fold, and generate physiologically interpretable visualizations highlighting both excitatory and suppressive evidence.
 
@@ -71,4 +71,3 @@ Some variability in excitatory versus suppressive localization is expected acros
 ---
 
 This setup enables clean, end‑to‑end reproduction of both quantitative performance and qualitative interpretability results.
-
